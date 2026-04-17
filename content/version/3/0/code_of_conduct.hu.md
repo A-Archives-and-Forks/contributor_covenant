@@ -15,19 +15,19 @@ Elkötelezzük magunkat amellett, hogy közösségünket mindenki számára nyit
 Elkötelezettek vagyunk egy olyan környezet kialakítása mellett, amely tiszteletben tartja és előmozdítja minden egyén méltóságát, jogait és hozzájárulását, függetlenül olyan jellemzőktől, mint a faj, etnikai hovatartozás, kaszt, bőrszín, életkor, fizikai jellemzők, idegrendszeri sokszínűség, fogyatékosság, nem vagy nemi identitás, nemi identitás vagy annak kifejezése, szexuális irányultság, nyelv, világnézet vagy vallás, nemzeti vagy társadalmi származás, társadalmi-gazdasági helyzet, iskolai végzettség vagy egyéb státusz. Ugyanazok a részvételi jogok vonatkoznak mindenkire, aki jóhiszeműen és e megállapodásnak megfelelően vesz részt.
 
 
-## Encouraged Behaviors
+## Elvárt magatartásformák
 
-While acknowledging differences in social norms, we all strive to meet our community's expectations for positive behavior. We also understand that our words and actions may be interpreted differently than we intend based on culture, background, or native language.
+Bár tisztában vagyunk a társadalmi normák közötti különbségekkel, mindannyian arra törekszünk, hogy megfeleljünk a közösségünk pozitív viselkedéssel kapcsolatos elvárásainak. Ugyanakkor tudjuk, hogy szavainkat és cselekedeteinket a kultúra, a háttér vagy az anyanyelv függvényében másképp értelmezhetik, mint ahogyan mi szántuk.
 
-With these considerations in mind, we agree to behave mindfully toward each other and act in ways that center our shared values, including:
+Ezeket a szempontokat szem előtt tartva vállaljuk, hogy egymással szemben figyelmesen viselkedünk, és olyan módon cselekszünk, amely középpontba helyezi közös értékeinket, ideértve a következőket:
 
-1. Respecting the **purpose of our community**, our activities, and our ways of gathering.
-2. Engaging **kindly and honestly** with others.
-3. Respecting **different viewpoints** and experiences.
-4. **Taking responsibility** for our actions and contributions.
-5. Gracefully giving and accepting **constructive feedback**.
-6. Committing to **repairing harm** when it occurs.
-7. Behaving in other ways that promote and sustain the **well-being of our community**.
+1. Tiszteletben tartva **közösségünk célját**, tevékenységeinket és összejöveteleink módját.
+2. **Kedvesen és őszintén** viszonyulni másokhoz.
+3. A **különböző nézőpontok** és tapasztalatok tiszteletben tartása.
+4. **Felelősséget vállalni** tetteinkért és hozzájárulásainkért.
+5. **Építő jellegű visszajelzéseket** udvariasan adni és fogadni.
+6. Elkötelezettség a **károk helyrehozása** mellett, amikor azok bekövetkeznek.
+7. Olyan egyéb magatartásformák, amelyek elősegítik és fenntartják **közösségünk jólétét**.
 
 
 ## Restricted Behaviors
