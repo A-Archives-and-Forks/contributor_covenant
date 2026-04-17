@@ -1,18 +1,18 @@
 +++
 title = "Contributor Covenant 3"
 version = "3.0"
-aliases = ["/version/3/0"]
-reportingPlaceholder = "[NOTE: describe your means of reporting here.]"
-enforcementPlaceholder = "[NOTE: The remedies and repairs outlined below are suggestions based on best practices in code of conduct enforcement. If your community has its own established enforcement process, be sure to edit this section to describe your own policies.]"
+aliases = ["/version/3/0/hu"]
+reportingPlaceholder = "[MEGJEGYZÉS: Itt írja le a bejelentési eljárást.]"
+enforcementPlaceholder = "[MEGJEGYZÉS: Az alábbiakban felsorolt, a szabályszegésekre és a jogorvoslatra vonatkozó intézkedések a magatartási kódexek érvényesítésének bevált gyakorlatai alapján készült javaslatok. Ha közösségüknek saját eljárásai vannak, kérjük, ennek megfelelően módosítsák ezt a részt.]"
 +++
 
-# Contributor Covenant 3.0 Code of Conduct
+# Contributor Covenant 3.0 Közreműködők Magatartási Kódexe
 
-## Our Pledge
+## Vállalásunk
 
-We pledge to make our community welcoming, safe, and equitable for all.
+Elkötelezzük magunkat amellett, hogy közösségünket mindenki számára nyitottá, biztonságosá és méltányosá tegyük.
 
-We are committed to fostering an environment that respects and promotes the dignity, rights, and contributions of all individuals, regardless of characteristics including race, ethnicity, caste, color, age, physical characteristics, neurodiversity, disability, sex or gender, gender identity or expression, sexual orientation, language, philosophy or religion, national or social origin, socio-economic position, level of education, or other status. The same privileges of participation are extended to everyone who participates in good faith and in accordance with this Covenant.
+Elkötelezettek vagyunk egy olyan környezet kialakítása mellett, amely tiszteletben tartja és előmozdítja minden egyén méltóságát, jogait és hozzájárulását, függetlenül olyan jellemzőktől, mint a faj, etnikai hovatartozás, kaszt, bőrszín, életkor, fizikai jellemzők, idegrendszeri sokszínűség, fogyatékosság, nem vagy nemi identitás, nemi identitás vagy annak kifejezése, szexuális irányultság, nyelv, világnézet vagy vallás, nemzeti vagy társadalmi származás, társadalmi-gazdasági helyzet, iskolai végzettség vagy egyéb státusz. Ugyanazok a részvételi jogok vonatkoznak mindenkire, aki jóhiszeműen és e megállapodásnak megfelelően vesz részt.
 
 
 ## Encouraged Behaviors
